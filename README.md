@@ -5,12 +5,12 @@ Utilizando bootstrap, css e js para entregar um site responsivo e bem feito!
 
 
 
-# Design feito por: 
+### Design feito por: 
 
-Victor Couto (https://www.linkedin.com/in/victor-couto-774a75180/)
+Victor Couto -> https://www.linkedin.com/in/victor-couto-774a75180/
 
-# Código por: 
+### Código por: 
 
-Caio (https://www.linkedin.com/in/caiovieiralima/) e 
+Caio -> https://www.linkedin.com/in/caiovieiralima/ e 
 
-Waslley (https://www.linkedin.com/in/waslleyfreixo/)
+Waslley -> https://www.linkedin.com/in/waslleyfreixo/
