@@ -1,5 +1,3 @@
-# Resilia
-
 # Design feito por: 
 
 Victor Couto (https://www.linkedin.com/in/victor-couto-774a75180/)
