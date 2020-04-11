@@ -1,0 +1,70 @@
+* {
+    text-decoration: none;
+    list-style-type: none;
+    font-family: 'Source Sans Pro';
+}
+
+/*****HEADER*****/
+/*
+header {
+    margin: 0;
+    padding: 0;
+    background-color: #2F2E2E;
+    /*width: 100%;
+    height: auto;
+}*/
+
+li{
+    padding-left:19px;
+
+}
+
+/****CARD*****/
+
+.main-card {
+    margin-top: 10%;
+}
+
+h1 {
+    font-size: 41px !important;
+   
+}
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+#parte3 > div + div {
+    margin: 0 auto;
+}
+
+section:not(#parte5):not(#parte6), #parte1, #parte2-1, #parte3 {
+    margin: 10% 0 10% 0;
+}
+
+.parte-5 {
+    background-color: #E6E4D8;
+}
+
+#parte5, #parte6 {
+    padding: 20px 0;
+}
