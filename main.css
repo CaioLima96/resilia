@@ -4,7 +4,9 @@
     font-family: 'Source Sans Pro';
 }
 
+
 /*****HEADER*****/
+
 
 /*header {
     margin: 0;
@@ -14,21 +16,60 @@
     height: auto;
 }*/
 
+
 /*li{
     padding-left:19px;
 
 }*/
 
+
 /****CARD*****/
 
-/*.main-card {
+.main-card {
     margin-top: 10%;
-}*/
+}
 
 h1 {
     font-size: 41px !important;
-   
 }
+
+#parte2>div+div p:nth-child(1) {
+    font-size: 24px !important;
+}
+
+#parte2 .mt-4 {
+    font-size: 20px;
+}
+
+#parte3 h2 {
+    margin-top: 7.4%;
+}
+
+#parte4 p:nth-child(1) {
+    font-size: 18px;
+}
+
+#parte4 p:nth-child(2) {
+    font-size: 18px;
+    line-height: 32px;
+    color: #9592A0;
+}
+
+#parte4 .mt-3 {
+    font-size: 20px;
+}
+
+#parte4 button {
+    width: 102px;
+    height: 50px;
+}
+
+
+/*#parte2>div+div>p+img {
+    margin-top: 10%;
+    border-radius: 20px;
+}*/
+
 
 /*.tooltip {
     position: relative;
@@ -53,6 +94,8 @@ h1 {
   .tooltip:hover .tooltiptext {
     visibility: visible;
 }*/
+
+
 /*
 #parte3 > div + div {
     margin: 0 auto;
@@ -62,9 +105,12 @@ section:not(#parte5):not(#parte6), #parte1, #parte2-1, #parte3 {
     margin: 10% 0 10% 0;
 }
 */
+
 .parte-5 {
     background-color: #E6E4D8;
 }
+
+
 /*
 #parte5, #parte6 {
     padding: 20px 0;
