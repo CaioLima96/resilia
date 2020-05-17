@@ -127,6 +127,12 @@ section:not(#parte5):not(#parte6), #parte1, #parte2-1, #parte3 {
     margin-top: 14.7%;
 }
 
+/*------FOOTER-------*/
+
+.parte7 {
+    background-color: #FFFFFF;
+}
+
 /*
 #parte5, #parte6 {
     padding: 20px 0;
