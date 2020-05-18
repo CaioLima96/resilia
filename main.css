@@ -75,32 +75,6 @@ h1 {
     border-radius: 20px;
 }*/
 
-
-/*.tooltip {
-    position: relative;
-    display: inline-block;
-    border-bottom: 1px dotted black;
-}
-  
-  .tooltip .tooltiptext {
-    visibility: hidden;
-    width: 120px;
-    background-color: black;
-    color: #fff;
-    text-align: center;
-    border-radius: 6px;
-    padding: 5px 0;
-  
-    /* Position the tooltip 
-    position: absolute;
-    z-index: 1;
-}
-  
-  .tooltip:hover .tooltiptext {
-    visibility: visible;
-}*/
-
-
 /*
 #parte3 > div + div {
     margin: 0 auto;
@@ -127,14 +101,48 @@ section:not(#parte5):not(#parte6), #parte1, #parte2-1, #parte3 {
     margin-top: 14.7%;
 }
 
+/*Icone #parte6*/
+
+/* enable absolute positioning */
+.inner-addon { 
+    position: relative; 
+}
+
+/* style icon */
+.inner-addon .material-icons {
+  position: absolute;
+  padding: 8px;
+  pointer-events: auto;
+}
+
+/* align icon */
+.left-addon .material-icons  { left:  0px;}
+.right-addon .material-icons { right: -5px;}
+
+/* add padding  */
+.left-addon input  { padding-left:  30px; }
+.right-addon input { padding-right: 30px; }
+
+#parte6 i {
+    cursor:pointer;
+}
+
+/*Fim do icone #parte6*/
+
+
+
+
+/*
+#parte6 i {
+    position: absolute;
+    margin-top: 13.4%;
+    right: 10%;
+}*/
+
+
+
 /*------FOOTER-------*/
 
 .parte7 {
     background-color: #FFFFFF;
 }
-
-/*
-#parte5, #parte6 {
-    padding: 20px 0;
-}
-*/
