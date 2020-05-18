@@ -8,20 +8,22 @@
 /*****HEADER*****/
 
 
-/*header {
-    margin: 0;
-    padding: 0;
-    background-color: #2F2E2E;
-    /*width: 100%;
-    height: auto;
-}*/
+header .menu-nav a {
+    color: #FAD000 !important;
+}
 
+header .menu-nav a:hover {
+    color: rgb(189, 160, 16) !important;
+}
 
-/*li{
-    padding-left:19px;
+header .fa {
+    color: #FFFFFF !important;
+}
 
-}*/
-
+header .fa:hover {
+    transition: 1s all;
+    transform: scale(1.2);
+}
 
 /****CARD*****/
 
@@ -69,21 +71,6 @@ h1 {
     width: 102px;
     height: 50px;
 }
-
-/*#parte2>div+div>p+img {
-    margin-top: 10%;
-    border-radius: 20px;
-}*/
-
-/*
-#parte3 > div + div {
-    margin: 0 auto;
-}
-/*
-section:not(#parte5):not(#parte6), #parte1, #parte2-1, #parte3 {
-    margin: 10% 0 10% 0;
-}
-*/
 
 .parte5 {
     background-color: #E6E4D8;
