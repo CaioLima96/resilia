@@ -116,7 +116,9 @@ h1 {
 
 /*Fim do icone #parte6*/
 
-
+#lamp-light:hover {
+    filter: invert(7%) sepia(70%) saturate(1363%) hue-rotate(5deg) brightness(100%) contrast(107%);
+}
 
 
 /*
